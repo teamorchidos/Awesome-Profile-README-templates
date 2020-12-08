@@ -7,7 +7,7 @@
 
 <hr>
 <p align="center">
-  <i><b>Let's connect and chat!</b></i>
+  <i><b>teamorchidos</b></i>
 
   <p align="center">
     <a href="https://twitter.com/aleti_sunil" alt="Twitter"><img src="https://github.com/aletisunil/aletisunil/blob/master/twitter.png" height="30" width="30"></a>&nbsp;
